@@ -1,0 +1,10 @@
+#include <cuda_runtime.h>
+#include <cuda_occupancy.h>
+#include <malloc.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <chrono>
+#include <climits>
+#include <cstdlib>
+#include <iostream>
+#include <fstream>
